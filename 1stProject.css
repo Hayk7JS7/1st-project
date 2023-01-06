@@ -1,0 +1,158 @@
+body{
+    background-color: #87CEEB;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo{
+ font-size: larger;
+ text-align: center;
+}
+/* .heading-1{
+    position: fixed;
+    top: 100px;
+    text-align: center;
+    background-color: solid black;
+
+} */
+.icon{
+    position: fixed;
+    right: 50%;
+    top: 10%;
+}
+.home{
+    font-size: larger;
+    position: fixed;
+    right: 100px;
+    width: 50px;
+    margin: 70px;
+    display: inline;
+    bottom: 60%;
+}
+.feature{
+    font-size: larger;
+    position: fixed;
+    border: 10px;
+    width: 20px;
+    margin: 70px;
+    display: inline;
+    bottom: 60%;
+}
+.about{
+    font-size: larger;
+    position: fixed;
+   left: 40%;
+    width: 50px;
+    margin: 70px;
+    display: inline;
+    bottom: 60%;
+}
+.about-watches{
+    position: fixed;
+    font-size: 20px;
+    right: 35%;
+    bottom: 200px;
+    text-align: justify;
+    width: 500px;
+}
+.image{
+    position: fixed;
+    font-size: 20px;
+    right: 21%;
+    bottom: 200px;
+}
+.image2{
+    position: fixed;
+    font-size: 20px;
+    right: 69%;
+    bottom: 200px;
+}
+.image3{
+    position: fixed;
+    font-size: 20px;
+    right: 21%;
+    bottom: 0%;
+}
+.image4{
+    position: fixed;
+    font-size: 20px;
+    right: 34%;
+    bottom: 0%;
+}
+.image5{
+    position: fixed;
+    font-size: 20px;
+    right: 47%;
+    bottom: 0%;
+}
+.image6{
+    position: fixed;
+    font-size: 20px;
+    right: 60%;
+    bottom: 0%;
+}
+.image7{
+    position: fixed;
+    font-size: 20px;
+    right: 73%;
+    bottom: 0%;
+}
+.introduction{
+    position: fixed;
+    font-size: 20px;
+    right: 45%;
+    bottom: 400px;
+
+}
+.h1-home{
+    text-align: center;
+}
+.about-watches2{
+    position: fixed;
+    text-align: justify;
+    top: 15%;
+    right: 65%;
+}
+.h3-home{
+    position: fixed;
+    right: 10%;
+}
+.video-home{
+    position: fixed;
+    right: 4%;
+    top: 25%;
+}
+.p-home{
+    position: absolute;
+    bottom: 25%;
+    right: 35%;
+    width: 500px;
+    text-align: justify;
+    display: inline;
+   size: larger;
+   
+}
+.image-home-3{
+    position: fixed;
+    top: 58%;
+    left: 4%;
+}
+.image-home-4{
+    position: fixed;
+    top: 58%;
+    left: 17%;
+}
+.image-home-5{
+    position: fixed;
+    top: 32%;
+    left: 17%;
+}
+.image-home-6{
+    position: fixed;
+    top: 32%;
+    left: 4%;
+}
+.home-sign-up{
+    position: fixed;
+    text-align: center;
+    right: 26%;
+    bottom: 50%;
+}

@@ -1,0 +1,22 @@
+body{
+    background-color: #87CEEB;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: larger;
+}
+.male{
+    display: inline;
+}
+.female{
+    display: inline;
+}
+.submit{
+    position: fixed;
+    right: 45%;
+    display: inline;
+
+}
+.reset{
+
+   display: inline;
+}
